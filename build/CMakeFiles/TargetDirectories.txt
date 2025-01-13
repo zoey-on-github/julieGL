@@ -1,0 +1,3 @@
+/home/julie/personal-projects/julieGL/build/CMakeFiles/julieGL.dir
+/home/julie/personal-projects/julieGL/build/CMakeFiles/edit_cache.dir
+/home/julie/personal-projects/julieGL/build/CMakeFiles/rebuild_cache.dir

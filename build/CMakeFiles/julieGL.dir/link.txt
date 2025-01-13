@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/julieGL.dir/link.d CMakeFiles/julieGL.dir/main.cpp.o -o julieGL  /usr/lib/libglfw.so.3.4
